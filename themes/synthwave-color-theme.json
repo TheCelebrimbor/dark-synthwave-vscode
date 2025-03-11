@@ -103,7 +103,7 @@
     "tab.activeForeground": "#fff",
     "tab.inactiveForeground": "#ffffff80",
     "tab.hoverBackground": "#000",
-    "titleBar.activeBackground": "#1E1E1E",
+    "titleBar.activeBackground": "#000000",
     "titleBar.activeForeground": "#ffffff99",
     "titleBar.inactiveBackground": "#1E1E1E",
     "titleBar.inactiveForeground": "#ffffff99",
